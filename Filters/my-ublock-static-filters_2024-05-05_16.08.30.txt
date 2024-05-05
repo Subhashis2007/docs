@@ -1,0 +1,4 @@
+! 2024-05-05 https://www.pw.live
+www.pw.live##.shine.relative.gap-4.justify-center.items-center.flex.h-full.w-full.unlock-button
+www.pw.live##.btn-big.ng-star-inserted.unlock-wrapper
+www.pw.live##.gap-4.flex-col.flex
